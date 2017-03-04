@@ -1,7 +1,7 @@
 <?php
 	/*
-	*EXEMPLO DO TESTE 3 UTILIZANDO PHP
-	*
+	*EXEMPLO: função que converte a data em PHP.
+	*Author: Rafael Custodio
 	*/
 
 function converter($date_usa){
