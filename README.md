@@ -1,5 +1,6 @@
-# Fontes-PHP
-Fontes com exemplos de códigos usando a linguagem PHP
+ # Fontes-PHP
+
+Exemplos de códigos com foco na linguagem PHP
 
 Todos os códigos fontes que serão armazenados neste repository, são códigos desenvolvidos para estudos, com exemplos de Orientação a Objetos,
 Laços de repetição, operadores e etc..
